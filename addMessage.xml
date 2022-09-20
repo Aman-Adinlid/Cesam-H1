@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cal:addMessage xmlns:cal="http://klockren.se/version/1.0/schemas/integration/callback">
+    <cal:flowInstanceID>1337</cal:flowInstanceID>
+    <cal:externalID>
+        <cal:ID>T800</cal:ID>
+        <cal:System>Skynet</cal:System>
+    </cal:externalID>
+    <cal:message>
+        <cal:added>2022-09-09T11:57:11.9283614+02:00</cal:added>
+        <cal:attachments>
+            <cal:encodedData>a2FuZWxidWxsZQ==</cal:encodedData>
+            <cal:filename>bulle.txt</cal:filename>
+            <cal:size>11</cal:size>
+        </cal:attachments>
+        <cal:attachments>
+            <cal:encodedData>YmFuYW4=</cal:encodedData>
+            <cal:filename>frukt.txt</cal:filename>
+            <cal:size>12</cal:size>
+        </cal:attachments>
+        <cal:message>Detta är ett testmeddelande.</cal:message>
+        <cal:userID>TestUser001</cal:userID>
+        <cal:readReceiptEnabled>false</cal:readReceiptEnabled>
+    </cal:message>
+    <cal:principal>
+        <cal:name>Dwight Shrute</cal:name>
+        <cal:userID>dwishu</cal:userID>
+    </cal:principal>
+</cal:addMessage>
